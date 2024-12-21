@@ -102,3 +102,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+*.idb
+bin/-windows-x86_64GLFW/GLFW.lib
+bin/-windows-x86_64GLFW/GLFW.pdb
